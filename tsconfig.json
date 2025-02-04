@@ -1,0 +1,10 @@
+{
+  "include": ["./src", "./config"],
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "jsx": "react-jsx",
+    "allowJs": true
+  }
+}

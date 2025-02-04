@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "dist/",
+  "srcMiniprogramRoot": "dist/",
+  "projectname": "Template",
+  "description": "Template project",
+  "compileType": "miniprogram",
+  "libVersion": "3.6.6",
+  "setting": {
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  }
+}
